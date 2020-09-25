@@ -1,0 +1,15 @@
+com.ericsson.oss.itpf.datalayer.dps.bucket.spi
+com.ericsson.oss.itpf.datalayer.dps.bucket.spi.exception
+com.ericsson.oss.itpf.datalayer.dps.configuration.spi
+com.ericsson.oss.itpf.datalayer.dps.connection.notification
+com.ericsson.oss.itpf.datalayer.dps.database
+com.ericsson.oss.itpf.datalayer.dps.global.spi
+com.ericsson.oss.itpf.datalayer.dps.global.spi.exception
+com.ericsson.oss.itpf.datalayer.dps.migrate
+com.ericsson.oss.itpf.datalayer.dps.object.spi
+com.ericsson.oss.itpf.datalayer.dps.object.spi.exception
+com.ericsson.oss.itpf.datalayer.dps.query.criterion.spi
+com.ericsson.oss.itpf.datalayer.dps.query.restriction.spi
+com.ericsson.oss.itpf.datalayer.dps.query.spi
+com.ericsson.oss.itpf.datalayer.dps.spi
+com.ericsson.oss.itpf.datalayer.dps.tracking.spi
